@@ -1,0 +1,6 @@
+{
+  "name": "NICK AI",
+  "description": "On-device AI, REA reverse engineering integration, Termux bridge, voice assistant, and project analysis studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NICK AI</string>
+    <string name="tagline">Local Intelligence • REA Analysis • Termux</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_analysis">Analysis</string>
+    <string name="nav_termux">Termux &amp; REA</string>
+    <string name="nav_tools">Tools</string>
+    <string name="nav_settings">Settings</string>
+</resources>
